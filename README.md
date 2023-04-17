@@ -20,7 +20,7 @@ $ cd src
 To install project, you need to clone the project by following command below:
 
 ```bash
-$ git clone https://<Username>:<Personal access token>@https://github.com/navamin11/Demoapp.git resume
+$ git clone https://<Username>:<Personal access token>@github.com/navamin11/Demoapp.git resume
 ```
 
 ### Copy environment file
